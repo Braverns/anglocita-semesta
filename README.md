@@ -62,16 +62,26 @@ The game emphasizes **environmental storytelling**, **permanent world changes**,
 
 ## 👥 Development Team
 
-**Anglocita Semesta Development Team**
+**Anglocita Semesta Development Team**  
+*(Small indie team – 3 members)*
 
-### 🎮 Game Design & Direction
-- Ahmad Mujahid
+### 🎮 Ahmad Mujahid  
+**Project Lead & Technical Designer**  
+- Project management & production coordination  
+- Lead programming (systems & gameplay mechanics)  
+- Technical game design (systems, level design, puzzles)  
+- Pixel art & technical art implementation  
 
-### 💻 Programming
-- Ahmad Mujahid
+### 📖 Intan Ayu Rahma Putri  
+**Narrative & Gameplay Designer / Audio Engineer**  
+- Story and environmental narration  
+- Gameplay concept support  
+- Audio design and sound implementation  
 
-### 🎨 Art & Audio
-- (In development / placeholder)
+### 💻 Siti Julpa  
+**Programmer**  
+- Gameplay programming support  
+- System implementation assistance
 
 ---
 
