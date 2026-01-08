@@ -83,6 +83,11 @@ The game emphasizes **environmental storytelling**, **permanent world changes**,
 - Gameplay programming support  
 - System implementation assistance
 
+### 💻 Brendhen Canafaro Lie
+**Programmer**  
+- Gameplay programming support  
+- System implementation assistance
+  
 ---
 
 ## 🚧 Status
